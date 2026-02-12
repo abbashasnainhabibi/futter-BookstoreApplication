@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146611402005",
+    "project_id": "flutterprojecthome1",
+    "storage_bucket": "flutterprojecthome1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146611402005:android:a93e53774d172e7684651c",
+        "android_client_info": {
+          "package_name": "com.example.bookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYiwitnG4PGI7pJpHda_24DEyoqqdfoRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

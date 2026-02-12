@@ -1,0 +1,1 @@
+ D:\\Bookstore\\bookstore\\.dart_tool\\flutter_build\\897ac4f49545b1b56edaff8f4087ebf1\\native_assets.yaml: 
